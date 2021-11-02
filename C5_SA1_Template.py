@@ -31,9 +31,9 @@ carryOn = True
     
         # Checking if user clicked on close or quit on game screen
          
-            # Change carryOn to False. This indicates that we are done so we exit this while loop 
+            # Change "carryOn" to False. This indicates we want to exit this while loop 
             
-    # Filling the screen with darkblue color. 
+    # Filling the screen with darkblue color. The rgb combination of darkblue color is defined in varaible "DARKBLUE". 
     
       
     # Check for user input to move the paddle
